@@ -27,7 +27,7 @@ namespace Proyecto_OperadoresLogicos
             }
             Console.ReadKey();
 
-            Console.Write("Holaaa");
+            Console.Write("Holaaa Maaaaaaaaa");
 
         }
     }
