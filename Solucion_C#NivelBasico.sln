@@ -19,9 +19,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Metodos", "Proyect
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_While", "Proyecto_While\Proyecto_While.csproj", "{566E4305-EC2D-4A1C-86E3-9B7090FDD480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Do-While", "Proyecto_Do-While\Proyecto_Do-While.csproj", "{2A2CFDAC-B47D-4DF6-B5FA-640EBE749593}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto_Do-While", "Proyecto_Do-While\Proyecto_Do-While.csproj", "{2A2CFDAC-B47D-4DF6-B5FA-640EBE749593}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_UsoChecked", "Proyecto_UsoChecked\Proyecto_UsoChecked.csproj", "{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto_UsoChecked", "Proyecto_UsoChecked\Proyecto_UsoChecked.csproj", "{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoAdivinarPazalizo", "JuegoAdivinarPazalizo\JuegoAdivinarPazalizo.csproj", "{50A6B1AE-3107-43C8-BA58-13BDAA5CAD3A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A6B1AE-3107-43C8-BA58-13BDAA5CAD3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A6B1AE-3107-43C8-BA58-13BDAA5CAD3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A6B1AE-3107-43C8-BA58-13BDAA5CAD3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A6B1AE-3107-43C8-BA58-13BDAA5CAD3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
