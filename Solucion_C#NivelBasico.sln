@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Do-While", "Proyec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_UsoChecked", "Proyecto_UsoChecked\Proyecto_UsoChecked.csproj", "{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Exepciones", "Proyecto_Exepciones\Proyecto_Exepciones.csproj", "{A92A7476-2A34-4605-92EA-F296315A78BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Setters_Getters", "Proyecto_Setters_Getters\Proyecto_Setters_Getters.csproj", "{28C8E7EF-DD48-4A58-BFF7-8F87A147261A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A92A7476-2A34-4605-92EA-F296315A78BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A92A7476-2A34-4605-92EA-F296315A78BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A92A7476-2A34-4605-92EA-F296315A78BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A92A7476-2A34-4605-92EA-F296315A78BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28C8E7EF-DD48-4A58-BFF7-8F87A147261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28C8E7EF-DD48-4A58-BFF7-8F87A147261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28C8E7EF-DD48-4A58-BFF7-8F87A147261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28C8E7EF-DD48-4A58-BFF7-8F87A147261A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
