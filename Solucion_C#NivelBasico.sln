@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_Do-While", "Proyec
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_UsoChecked", "Proyecto_UsoChecked\Proyecto_UsoChecked.csproj", "{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto_UsoArrays", "Proyecto_UsoArrays\Proyecto_UsoArrays.csproj", "{7C39299E-9E24-4E67-9659-7C78E9E53E5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{440A27D3-6CED-49D4-9AFE-B7D10C6FA27E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C39299E-9E24-4E67-9659-7C78E9E53E5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C39299E-9E24-4E67-9659-7C78E9E53E5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C39299E-9E24-4E67-9659-7C78E9E53E5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C39299E-9E24-4E67-9659-7C78E9E53E5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
